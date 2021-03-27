@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="font-size:50px">我叫杨新月</div>
-<div style="font-size:50px">再不疯狂我们就老了</div>
-<div style="font-size:50px">没有回忆怎么祭奠呢</div>
-<div style="font-size:50px">还有什么永垂不朽呢</div>
-<div style="font-size:50px">错过的你都不会再有</div>
+# 我叫杨新月
+# 再不疯狂我们就老了
+# 没有回忆怎么祭奠呢
+# 还有什么永垂不朽呢
+# 错过的你都不会再有
