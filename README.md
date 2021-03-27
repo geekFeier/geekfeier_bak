@@ -1,5 +1,5 @@
 # Hi，飞儿在此！
-<br/>
+![](https://github-readme-stats.vercel.app/api?username=geekfeier)
 <!--
 **geekFeier/geekfeier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 
 # 再不疯狂我们就老了
